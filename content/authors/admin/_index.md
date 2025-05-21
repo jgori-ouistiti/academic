@@ -15,7 +15,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chargé de Recherche CNRS (CNRS Researcher)
+role: Chargé de Recherche (Researcher)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,7 +34,7 @@ profiles:
     url: https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3272-9176
-  - icon: "custom/strava"
+  - icon: custom/strava
     url: https://www.strava.com/athletes/49814528
 
 interests:
