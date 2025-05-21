@@ -7,7 +7,7 @@ tags:
 index: false
 ---
 
-Using YOLOv8 + PyQt to build a system-wide bubblecursor
+Using YOLOv8 + PyQt to build a system-wide bubblecursor. Credits: Ahmed Ben Akouche and Julien Gori.
 
 ![Bubble Cursor demo](bubble_cursor.gif)
 
