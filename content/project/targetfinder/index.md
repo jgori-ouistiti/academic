@@ -3,7 +3,6 @@ title: TargetFinder
 date: 2025-05-21
 # external_link: https://github.com/pytorch/pytorch
 tags:
-  - Wowchemy
   - Markdown
 index: false
 ---
