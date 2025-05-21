@@ -6,6 +6,7 @@ tags:
   - Hugo
   - Wowchemy
   - Markdown
+index: false
 ---
 
 Using YOLOv8 + PyQt to build a system-wide bubblecursor
