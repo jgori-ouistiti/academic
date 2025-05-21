@@ -1,9 +1,8 @@
 ---
-title: targetfinder
+title: TargetFinder
 date: 2025-05-21
 # external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
   - Wowchemy
   - Markdown
 index: false
