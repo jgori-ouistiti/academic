@@ -34,7 +34,7 @@ profiles:
     url: https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3272-9176
-  - icon: "custom/strava"
+  - icon: "custom/strava.svg"
     url: https://www.strava.com/athletes/49814528
 
 interests:
