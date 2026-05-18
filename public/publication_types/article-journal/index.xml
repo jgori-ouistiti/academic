@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Julien Gori - academic website</title>
-    <link>http://localhost:36301/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:36301/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36301/media/icon_hu_4bc81f2edf496b34.png</url>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:36301/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>The Fitts Law Filter Bubble: A Response to Heiko Drewes</title>
-      <link>http://localhost:36301/publication/gori-2025-fitts/</link>
+      <link>http://localhost:1313/publication/gori-2025-fitts/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/gori-2025-fitts/</guid>
+      <guid>http://localhost:1313/publication/gori-2025-fitts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel mixture model for characterizing human aiming performance data</title>
-      <link>http://localhost:36301/publication/li-2024-novel/</link>
+      <link>http://localhost:1313/publication/li-2024-novel/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/li-2024-novel/</guid>
+      <guid>http://localhost:1313/publication/li-2024-novel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The many ways of being transparent in human-computer interaction research</title>
-      <link>http://localhost:36301/publication/jansen-2024-many/</link>
+      <link>http://localhost:1313/publication/jansen-2024-many/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/jansen-2024-many/</guid>
+      <guid>http://localhost:1313/publication/jansen-2024-many/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A feedback information-theoretic transmission scheme (FITTS) for modeling trajectory variability in aimed movements</title>
-      <link>http://localhost:36301/publication/gori-2020-feedback/</link>
+      <link>http://localhost:1313/publication/gori-2020-feedback/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/gori-2020-feedback/</guid>
+      <guid>http://localhost:1313/publication/gori-2020-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speed-accuracy tradeoff: A formal information-theoretic transmission scheme (fitts)</title>
-      <link>http://localhost:36301/publication/gori-2018-speed/</link>
+      <link>http://localhost:1313/publication/gori-2018-speed/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/gori-2018-speed/</guid>
+      <guid>http://localhost:1313/publication/gori-2018-speed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not Just Pointing: Shannon&#39;s Information Theory as a General Tool for Performance Evaluation of Input Techniques</title>
-      <link>http://localhost:36301/publication/guiard-2017-not/</link>
+      <link>http://localhost:1313/publication/guiard-2017-not/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/guiard-2017-not/</guid>
+      <guid>http://localhost:1313/publication/guiard-2017-not/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:36301/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36301/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
      data-callout=&#34;note&#34; 
      data-callout-metadata=&#34;&#34;&gt;
